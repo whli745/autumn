@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://192.168.112.128:8888
+      name: autumn-commons,autumn-zipkin
+      label: master
+      profile: dev

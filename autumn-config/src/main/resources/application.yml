@@ -9,10 +9,6 @@ spring:
       server:
         git:
           search-paths: profile
-          uri: https://github.com/whli745/autumn.git
-          username: whli745
-          password: 5539044op
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
+          uri: https://github.com/qshui745/spring-cloud-config.git
+          username: qshui745
+          password: ewininfo123
